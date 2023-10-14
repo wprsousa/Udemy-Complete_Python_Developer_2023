@@ -10,11 +10,11 @@ smtp_server = "smtp.gmail.com"
 smtp_port = 587
 
 # Email address and password
-email = "wprsousa@gmail.com"
-password = 'snqb txii poik xzml'
+email = ...
+password = ...
 
 # Recipient and subject
-recipient = 'wprsousa@gmail.com'
+recipient = ...
 subject = 'You won 1,000,000 dollars'
 
 # Email body
