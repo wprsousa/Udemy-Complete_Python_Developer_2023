@@ -7,7 +7,7 @@ client = Client(account_sid, auth_token)
 message = client.messages.create(
     from_='+17543335525',
     body='HELLLLLOOOOOO',
-    to='+5513981292148'
+    to='put phone number'
 )
 
 print(message.sid)
